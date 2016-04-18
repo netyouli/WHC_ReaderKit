@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WHC_ReadBookVC.clickRightItem(UIBarButtonItem) -&gt; ():WHC_ReadBookVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chapterArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WHC_LookBookRecord.encodeWithCoder(NSCoder) -&gt; ():WHC_LookBookRecord.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chapterArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
