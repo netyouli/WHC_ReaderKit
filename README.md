@@ -18,7 +18,7 @@ let bookNV = UINavigationController(rootViewController: bookVC)
 self.presentViewController(bookNV, animated: true, completion: nil)
 ```
 ### 使用效果
-![](https://github.com/netyouli/WHC_NavigationControllerKit/blob/master/show.gif)
+![](https://github.com/netyouli/WHC_ReaderKit/blob/master/WHC_ReaderKit/show.gif)
 
 
 

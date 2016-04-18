@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		C3A1D61E1CC4831100BD55AB /* 2061太空漫游.txt in Resources */ = {isa = PBXBuildFile; fileRef = C3A1D61D1CC4831100BD55AB /* 2061太空漫游.txt */; };
-		C3A1D6211CC48CFB00BD55AB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C3A1D61F1CC48CFB00BD55AB /* README.md */; };
 		C3A1D6221CC48CFB00BD55AB /* show.gif in Resources */ = {isa = PBXBuildFile; fileRef = C3A1D6201CC48CFB00BD55AB /* show.gif */; };
+		C3A1D6241CC48F4400BD55AB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C3A1D6231CC48F4400BD55AB /* README.md */; };
 		C3DE68731CC471900065F9AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DE68721CC471900065F9AC /* AppDelegate.swift */; };
 		C3DE68751CC471900065F9AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3DE68741CC471900065F9AC /* ViewController.swift */; };
 		C3DE687A1CC471900065F9AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3DE68791CC471900065F9AC /* Assets.xcassets */; };
@@ -31,8 +31,8 @@
 
 /* Begin PBXFileReference section */
 		C3A1D61D1CC4831100BD55AB /* 2061太空漫游.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2061太空漫游.txt"; sourceTree = "<group>"; };
-		C3A1D61F1CC48CFB00BD55AB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C3A1D6201CC48CFB00BD55AB /* show.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = show.gif; sourceTree = "<group>"; };
+		C3A1D6231CC48F4400BD55AB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C3DE686F1CC4718F0065F9AC /* WHC_ReaderKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WHC_ReaderKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3DE68721CC471900065F9AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3DE68741CC471900065F9AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,6 +73,7 @@
 		C3DE68661CC4718F0065F9AC = {
 			isa = PBXGroup;
 			children = (
+				C3A1D6231CC48F4400BD55AB /* README.md */,
 				C3DE68711CC4718F0065F9AC /* WHC_ReaderKit */,
 				C3DE68701CC4718F0065F9AC /* Products */,
 			);
@@ -89,7 +90,6 @@
 		C3DE68711CC4718F0065F9AC /* WHC_ReaderKit */ = {
 			isa = PBXGroup;
 			children = (
-				C3A1D61F1CC48CFB00BD55AB /* README.md */,
 				C3A1D6201CC48CFB00BD55AB /* show.gif */,
 				C3DE68851CC472AE0065F9AC /* WHC_ReaderKit */,
 				C3DE68721CC471900065F9AC /* AppDelegate.swift */,
@@ -238,7 +238,7 @@
 				C3DE68931CC472AE0065F9AC /* WHC_DirectoryVC.swift in Sources */,
 				C3DE68941CC472AE0065F9AC /* WHC_LookBookVC.swift in Sources */,
 				C3DE68751CC471900065F9AC /* ViewController.swift in Sources */,
-				C3A1D6211CC48CFB00BD55AB /* README.md in Sources */,
+				C3A1D6241CC48F4400BD55AB /* README.md in Sources */,
 				C3DE68981CC472AE0065F9AC /* WHC_LookBookRecord.swift in Sources */,
 				C3DE68A81CC4759A0065F9AC /* UIView+WHC_ViewProperty.m in Sources */,
 				C3DE68731CC471900065F9AC /* AppDelegate.swift in Sources */,
